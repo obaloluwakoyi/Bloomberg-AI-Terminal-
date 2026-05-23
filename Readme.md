@@ -4,6 +4,8 @@ An elite, high-performance financial trading terminal simulation powered by mult
 
 ---
 
+Live Demo :-  https://bloomberg-ai-terminal1.streamlit.app
+
 ## 🚀 Key Architectural Highlights
 
 * **Concurrent WAL State Core:** Uses SQLite Write-Ahead Logging (WAL) to enable multi-threaded read/write actions, insulating background workers and front-end interface processes against database locking.
